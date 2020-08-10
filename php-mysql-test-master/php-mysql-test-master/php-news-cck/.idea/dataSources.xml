@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Microsoft SQL Server - @49.233.85.4" uuid="d4206103-b18f-4305-8d96-6d68c9343952">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://49.233.85.4:1433</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="mysql" uuid="bd78e083-d1ad-44bd-8be2-62ca367f82c6">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://yhocn.cn:3306/phpnews</jdbc-url>
+    </data-source>
+  </component>
+</project>
